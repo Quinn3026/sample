@@ -1,0 +1,27 @@
+name: appdev
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/FB_IMG_1578792237134.png
+    - images/815483.png
+    - images/wallpaper.png
+    - images/wp4589638-shinobu-kocho-wallpapers.png
+    - images/th.png
+
